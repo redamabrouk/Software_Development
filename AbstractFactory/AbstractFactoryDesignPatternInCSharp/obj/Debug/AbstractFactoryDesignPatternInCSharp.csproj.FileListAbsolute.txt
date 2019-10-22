@@ -1,0 +1,5 @@
+C:\Users\redam\Pictures\Officials\2018-2019\Software Development and Professional Practice Lectures 2018-2019\SDPPCode 2018-2019\AbstractFactory\AbstractFactoryDesignPatternInCSharp\bin\Debug\AbstractFactoryDesignPatternInCSharp.exe.config
+C:\Users\redam\Pictures\Officials\2018-2019\Software Development and Professional Practice Lectures 2018-2019\SDPPCode 2018-2019\AbstractFactory\AbstractFactoryDesignPatternInCSharp\bin\Debug\AbstractFactoryDesignPatternInCSharp.exe
+C:\Users\redam\Pictures\Officials\2018-2019\Software Development and Professional Practice Lectures 2018-2019\SDPPCode 2018-2019\AbstractFactory\AbstractFactoryDesignPatternInCSharp\bin\Debug\AbstractFactoryDesignPatternInCSharp.pdb
+C:\Users\redam\Pictures\Officials\2018-2019\Software Development and Professional Practice Lectures 2018-2019\SDPPCode 2018-2019\AbstractFactory\AbstractFactoryDesignPatternInCSharp\obj\Debug\AbstractFactoryDesignPatternInCSharp.exe
+C:\Users\redam\Pictures\Officials\2018-2019\Software Development and Professional Practice Lectures 2018-2019\SDPPCode 2018-2019\AbstractFactory\AbstractFactoryDesignPatternInCSharp\obj\Debug\AbstractFactoryDesignPatternInCSharp.pdb
