@@ -1,0 +1,1 @@
+c:\users\drreda\documents\visual studio 2013\Projects\BuilderDesignPattern\StockProduct\bin\Debug\StockProduct.exe.config
