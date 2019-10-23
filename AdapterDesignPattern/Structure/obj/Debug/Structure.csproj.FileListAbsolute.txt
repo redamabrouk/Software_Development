@@ -1,0 +1,5 @@
+c:\users\drreda\documents\visual studio 2013\Projects\AdapterDesignPattern\Structure\bin\Debug\Structure.exe.config
+c:\users\drreda\documents\visual studio 2013\Projects\AdapterDesignPattern\Structure\bin\Debug\Structure.exe
+c:\users\drreda\documents\visual studio 2013\Projects\AdapterDesignPattern\Structure\bin\Debug\Structure.pdb
+c:\users\drreda\documents\visual studio 2013\Projects\AdapterDesignPattern\Structure\obj\Debug\Structure.exe
+c:\users\drreda\documents\visual studio 2013\Projects\AdapterDesignPattern\Structure\obj\Debug\Structure.pdb

@@ -1,0 +1,1 @@
+Adapter Design Patter code from https://code-maze.com/adapter/
