@@ -1,0 +1,5 @@
+C:\Users\DrReda\Documents\Visual Studio 2013\Projects\DesignPatterns\BridgeTest\BridgeTest\bin\Debug\BridgeTest.exe
+C:\Users\DrReda\Documents\Visual Studio 2013\Projects\DesignPatterns\BridgeTest\BridgeTest\bin\Debug\BridgeTest.pdb
+C:\Users\DrReda\Documents\Visual Studio 2013\Projects\DesignPatterns\BridgeTest\BridgeTest\obj\Debug\BridgeTest.csprojResolveAssemblyReference.cache
+C:\Users\DrReda\Documents\Visual Studio 2013\Projects\DesignPatterns\BridgeTest\BridgeTest\obj\Debug\BridgeTest.exe
+C:\Users\DrReda\Documents\Visual Studio 2013\Projects\DesignPatterns\BridgeTest\BridgeTest\obj\Debug\BridgeTest.pdb

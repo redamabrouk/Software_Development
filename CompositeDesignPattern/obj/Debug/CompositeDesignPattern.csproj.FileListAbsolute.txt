@@ -1,0 +1,5 @@
+c:\users\drreda\documents\visual studio 2013\Projects\StructralDesignPatterns\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.exe.config
+c:\users\drreda\documents\visual studio 2013\Projects\StructralDesignPatterns\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.exe
+c:\users\drreda\documents\visual studio 2013\Projects\StructralDesignPatterns\CompositeDesignPattern\bin\Debug\CompositeDesignPattern.pdb
+c:\users\drreda\documents\visual studio 2013\Projects\StructralDesignPatterns\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.exe
+c:\users\drreda\documents\visual studio 2013\Projects\StructralDesignPatterns\CompositeDesignPattern\obj\Debug\CompositeDesignPattern.pdb
