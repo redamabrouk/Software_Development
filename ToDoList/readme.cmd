@@ -5,4 +5,4 @@ Bridge pattern would the most appropriate to be used in this case. The abstracti
 presentations (listed items, items with bullets, numbered items) while the implementations cab
 be the way how the list are sorted (unordered list, a due date ordered list or a priority based
 ordered task list).
-<img src="/To-Do-List.png" alt="Class Diagram"/>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
