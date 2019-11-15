@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="To-Do List Application - Bridge Design Pattern">
+    <Position X="1" Y="2.09" Height="0.333" Width="2.901" />
+  </Comment>
+  <Class Name="ToDoListApplication.ToDoListAbstraction">
+    <Position X="4" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAIAAAAAACAACAAAAAAAAAA=</HashCode>
+      <FileName>ToDoListAbstraction.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Implementor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ToDoListApplication.TaskItem" Collapsed="true">
+    <Position X="0.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQgACAEIAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>TaskList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoListApplication.DueDateOrderedTaskList">
+    <Position X="10.75" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SortingImplementors\DueDateOrderedTaskList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ToDoListApplication.PrioritizedTask_List">
+    <Position X="13" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SortingImplementors\PrioritizedTask_List.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ToDoListApplication.UnorderedTaskList">
+    <Position X="8.5" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SortingImplementors\UnorderedTaskList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ToDoListApplication.PrioritizedNumberedTaskList">
+    <Position X="1.5" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Presentation\PrioritizedNumberedTaskList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoListApplication.UnorderedNumberedTaskList">
+    <Position X="4" Y="5.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Presentation\UnorderedNumberedTaskList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoListApplication.DueDateOrderedBulletedTaskList">
+    <Position X="6.5" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Presentation\DueDateOrderedBulletedTaskList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToDoListApplication.Client">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ToDoListAbstraction" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="ToDoListApplication.Implementor">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Implementor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="ToDoListApplication.PriorityEnum" Collapsed="true">
+    <Position X="2.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAACAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PriorityEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
