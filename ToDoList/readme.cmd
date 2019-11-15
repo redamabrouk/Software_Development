@@ -7,4 +7,4 @@ presentations (listed items, items with bullets, numbered items) while the imple
 be the way how the list are sorted (unordered list, a due date ordered list or a priority based
 ordered task list).
 
-![alt text](https://github.com/redamabrouk/Software_Development/raw/master/ToDoList/To-Do%20List.png)
+![Screenshot](https://github.com/redamabrouk/Software_Development/raw/master/ToDoList/To-Do%20List.png)
