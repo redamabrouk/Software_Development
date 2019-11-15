@@ -7,4 +7,4 @@ be the way how the list are sorted (unordered list, a due date ordered list or a
 ordered task list).
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Class Diagram](To-Do-List.png)
